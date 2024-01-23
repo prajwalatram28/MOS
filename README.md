@@ -7,9 +7,9 @@
 
 <pre>
 
-Name - Vishal Singh
+Name - Prajwal Atram
 Branch - IT
-Email - vishal.singh20@vit.edu
+Email - prajwal.atram20@vit.edu
 College name - Vishwakarama institute of technology
 
 </pre>
